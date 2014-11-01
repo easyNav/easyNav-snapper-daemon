@@ -9,3 +9,4 @@
 # Copyright (c) 2014 Joel Tong me@joeltong.org
 
 from easyNav_snapper_daemon.version import __version__
+from easyNav_snapper_daemon.predictionDaemon import PredictionDaemon
